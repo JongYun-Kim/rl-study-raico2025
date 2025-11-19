@@ -30,7 +30,7 @@ If you've completed the previous modules on TD learning and GAE, you're ready!
 
 The Jupyter Notebook is organized to maximize your understanding through a carefully designed progression:
 
-### Part 1: Motivation & High-Level Intuition (20 min)
+### Part 1: Motivation & High-Level Intuition (20 min--this duration for demonstration purposes only)
 - Why do we need PPO?
 - What problems does it solve?
 - The three key innovations of PPO
